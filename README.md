@@ -1,1 +1,2 @@
-# data_preparation_and_visualization
+# Data Preparation and Visualization for Business Analytics
+# Course at IMT 
